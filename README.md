@@ -25,4 +25,4 @@ I focus on writing well-structured, accessible code with great performance — e
 - 📸 Instagram: [@m_3bdelnaser](https://www.instagram.com/m_3bdelnaser/profilecard/?igsh=ZG42NG93ZTl5NWIx)
 
 ## ⚡ Fun Fact
-I love football ⚽ and I break down problems like I break defenders on the pitch 😄
+I love football ⚽😄
