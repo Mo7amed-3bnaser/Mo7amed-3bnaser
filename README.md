@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohamed Ibn Naser (@Mo7amed-3bnaser)
+# 👋 Hi, I’m Mohamed Abdelnaser (@Mo7amed-3bnaser)
 
 I'm a passionate Front-End Developer who loves building clean and responsive web interfaces.  
 I focus on writing well-structured, accessible code with great performance — especially for mobile!
