@@ -3,7 +3,7 @@
 I'm a passionate Front-End Developer who loves building clean and responsive web interfaces.  
 I focus on writing well-structured, accessible code with great performance — especially for mobile!
 
-## 👀 Interests
+##  Interests
 - Web Development (HTML, CSS, JS)
 - Responsive Design & UI/UX
 - Front-End Performance Optimization
